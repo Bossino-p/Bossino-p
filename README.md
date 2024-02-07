@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on building my first dApp.
 - 📫 How to reach me : here
-- 😄 Pronouns: -
+- 😄 Pronouns: None
 - ⚡ Fun fact: My origin country is known for having one of the best cuisine in the world.
 
 <!---
