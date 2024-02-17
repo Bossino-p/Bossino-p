@@ -1,2 +1,5 @@
 'Hello World'
 name = 'Bossino'
+print(name)
+len(name)
+type(name)
