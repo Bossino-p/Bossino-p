@@ -3,3 +3,4 @@ name = 'Bossino'
 print(name)
 len(name)
 type(name)
+name.upper() 
