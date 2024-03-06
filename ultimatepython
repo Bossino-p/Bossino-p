@@ -5,4 +5,4 @@ len(name)
 type(name)
 name.upper() 
 name.lower()
-name
+name.
