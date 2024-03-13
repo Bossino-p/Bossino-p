@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building my first dApp.
 - 📫 How to reach me : Somewhere in Asia
 - 😄 Pronouns: 
-- ⚡ Fun facts: My origin country is known for having one of the best cuisine in the world.
+- ⚡ Fun facts: My origin country is known for having one of the best cuisine in the world....
 
 <!---
 Bossino-p/Bossino-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
